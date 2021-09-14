@@ -19,7 +19,7 @@ Here you can find the [Images Folder](./Images)
 
 :blush:\
 :smirk:\
-:smiley:\
+:smiley:
 
 ## Tables
 
@@ -27,4 +27,4 @@ Name | Classes|
 :------:|:------:
 hallo | good
 and | you 
-jena | 19
+jena | 19hallo
