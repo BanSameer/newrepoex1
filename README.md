@@ -1,4 +1,26 @@
-# newrepoex1
-first exercise 13th sep 21
-# Just added the header
+# Github Flavored Markdown
 
+## Checkboxes 
+- [] External Link
+- [] Internal Link
+- [] Images
+- [] Emojis
+- [] Tables
+
+## External Link
+You can find the github documentation [Here](https://help.github.com/en)
+
+## Images
+Here you can find the [Images Folder](./Images)
+
+![Landscape](./Images/pexels-james-wheeler-1486974.jpg)
+
+## Emojis
+
+
+## Tables
+
+Name | Classes|
+:------:|:------:
+hallo | good
+and | you 
